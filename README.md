@@ -1,7 +1,5 @@
-# CulturalES_WildfireRx
+# CulturalES_WildfireRx - Kyle Manley
 This is the information page pertaining to the wildfire/Rx impacts to CES project. 
-
-# Kyle Manley
 
 Welcome to the CulturalES_WildfireRx repository, part of Earth Lab and the Cooperative Institute for Research in Environmental Sciences. This repository serves as the central hub for the CIRES VFP project realted to modeling inpacts of wildfire and mangement via Rx to cultural ecosystem services across the US West.
 
@@ -18,10 +16,10 @@ In this project, I will address the following questions:
 
 ## Collaborators and Co-Authors 
 
-- Laura Dee: Brief description.
-- Jennifer Balch: Brief description.
-- Cody Evers:
-- Holly Nowell:
+- Dr. Laura Dee: Brief description.
+- Dr. Jennifer Balch: Brief description.
+- Dr. Cody Evers:
+- Dr. Holly Nowell:
 
 ## Code Repository
 
