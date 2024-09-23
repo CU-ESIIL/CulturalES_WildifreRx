@@ -1,27 +1,27 @@
-[![DOI](https://zenodo.org/badge/733258046.svg)](https://zenodo.org/doi/10.5281/zenodo.11166823)
+# CulturalES_WildfireRx
+This is the information page pertaining to the wildfire/Rx impacts to CES project. 
 
-# Postdoc OASIS
-This is the central hub for information pertaining to ESIIL Postdocs
+# Kyle Manley
 
-# [Your Name]
-
-Welcome to the [Your Name] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
+Welcome to the CulturalES_WildfireRx repository, part of Earth Lab and the Cooperative Institute for Research in Environmental Sciences. This repository serves as the central hub for the CIRES VFP project realted to modeling inpacts of wildfire and mangement via Rx to cultural ecosystem services across the US West.
 
 ## Your Project
 
-[Provide a brief overview of your project here. Explain what you aim to achieve, the importance of your project, and its expected impact.]
+In this project, I will address the following questions: 
+1)	How do patterns of CES use, specifically recreation, change after wildfire and Rx?
+2)	How does reliance upon/use of CES lead to exposure/vulnerability to wildfire/Rx hazards? 
+3)	How does management through Rx affect social-environmental outcomes. 
 
 ## Project Proposal
 
-[Link to the detailed project proposal document or include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
+
 
 ## Collaborators and Co-Authors 
 
-[List the names and a brief description of people you work with, possibly linking to their personal or professional web pages.]
-
-- **Collaborator 1**: Brief description.
-- **Collaborator 2**: Brief description.
-- ...
+- Laura Dee: Brief description.
+- Jennifer Balch: Brief description.
+- Cody Evers:
+- Holly Nowell:
 
 ## Code Repository
 
