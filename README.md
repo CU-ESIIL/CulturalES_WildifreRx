@@ -2,7 +2,7 @@
 
 This is the information page pertaining to the wildfire/Rx impacts to CES project. 
 
-Welcome to the CulturalES_WildfireRx repository, part of Earth Lab and the Cooperative Institute for Research in Environmental Sciences. This repository serves as the central hub for the CIRES VFP project related to modeling impacts of disturbance and management on cultural ecosystem services across the US West.
+Welcome to the CulturalES_WildfireRx repository, developed as part of Earth Lab and the Cooperative Institute for Research in Environmental Sciences (CIRES). This repository is the primary resource for the CIRES VFP project, which focuses on modeling the effects of disturbances and management practices on cultural ecosystem services across the western United States.
 
 ## Overview
 
@@ -13,7 +13,7 @@ In this project, I will address the following questions:
 
 ## Project Proposal
 
-
+![Cultural Ecosystem Services Model](https://github.com/CU-ESIIL/CulturalES_WildfireRx/blob/main/image.png)
 
 ## Collaborators and Co-Authors 
 
