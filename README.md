@@ -13,7 +13,9 @@ In this project, I will address the following questions:
 
 ## Project Proposal
 
-![Cultural Ecosystem Services Model](https://github.com/CU-ESIIL/CulturalES_WildfireRx/blob/main/Framework.png)
+![Cultural Ecosystem Services Model](https://github.com/CU-ESIIL/CulturalES_WildfireRx/blob/main/Framework)
+
+
 
 ## Collaborators and Co-Authors 
 
