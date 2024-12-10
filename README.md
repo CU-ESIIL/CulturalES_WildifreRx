@@ -7,9 +7,11 @@ Welcome to the CulturalES_WildfireRx repository, developed as part of Earth Lab 
 ## Overview
 
 In this project, I will address the following questions: 
-1)	How do patterns of CES use, specifically recreation, change after wildfire and Rx?
-2)	How does reliance upon/use of CES lead to exposure/vulnerability to wildfire/Rx hazards? 
-3)	How does management through Rx affect social-environmental outcomes. 
+1. How do patterns of CES use, specifically recreation, change after wildfire and Rx in the US West and what are the differences?
+2. How does reliance upon/use of CES lead to exposure/vulnerability to wildfire/Rx hazards?
+  a. What are the economic consequences of CES change post-fire and are there disparities within economies dependent upon recreation.
+  b. How often are recreationists exposed to smoke from wildfires versus Rx and what are the consequences?
+
 
 ## Project Proposal
 
