@@ -25,7 +25,8 @@ In this project, I will address the following questions:
 - Dr. Jennifer Balch: 
 - Dr. Cody Evers:
 - Dr. Holly Nowell:
-- Tyler McIntosh
+- Dr. Spencer Wood:
+- Tyler McIntosh:
 
 ## Code Repository
 
